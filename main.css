@@ -1,0 +1,15 @@
+.grid{
+    display: grid;
+    grid-template-columns: 0fr 1fr 1fr;
+    grid-template-areas: 
+    ". music nothing .";
+}
+.music{
+    grid-area: music;
+    background-color: indianred;
+}
+.nothing
+{
+    grid-area: nothing;
+    background-color: greenyellow;
+}
