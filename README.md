@@ -1,2 +1,3 @@
 # My_WebSite
-First website
+JUST  LEARNING HOW TO MAKE A WEB
+
